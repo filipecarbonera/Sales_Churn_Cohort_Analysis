@@ -1,6 +1,6 @@
-# Sales and Churn Cohort Analysis
-
 > With this analysis you can understand deeply each sales cohort and if retention strategies are been effective over the months.
+
+![Sales and Churn Cohort Analysis](https://github.com/filipecarbonera/sales_churn_cohort_analysis/blob/main/image.png)
 
 [Link to the Medium article explaining how to replicate this analysis.](https://medium.com/@filipecarbonera/how-to-create-a-sales-and-churn-cohort-analysis-in-looker-studio-bb56f1bd3f90)
 
