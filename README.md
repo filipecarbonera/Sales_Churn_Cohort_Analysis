@@ -10,3 +10,10 @@ The main goal of this article is to explain how to create a sales (or subscripti
 - The SQL query used in this analysis can be found in the _creating_final_table.sql_ file in this repository.
 
 - The final result of this analysis can be found in [this link](https://lookerstudio.google.com/reporting/77644a55-7617-4111-8419-b14839c618b4/page/p_wziz1f120c).
+
+### Some of the knowledge applyed in this project:
+- SQL
+- Window functions
+- Temporary table
+- Cohort analysis
+- Churn analysis
